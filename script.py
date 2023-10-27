@@ -11,23 +11,23 @@ Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
 
 <b>Here Is The Help For My Commands.</b>"""
 
-    ABOUT_TXT = """<b>➥ My name: {}
-➥ Creator: <a href='https://t.me/zautekm'>Zaute Km</a>
-➥ Library: <a href='https://docs.pyrogram.org/'>Pyrogram</a>
-➥ Language: Python 𝟹
-➥ Data Base: <a href='https://www.mongodb.com/'>MongoDB</a>
-➥ Bot Server: <a href='https://heroku.com'>Heroku</a>
-➥ Build Status: v2.0.1 [ Beta ]"""
+    ABOUT_TXT = """<b>➥ 𝙼𝙾𝙽 𝙽𝙾𝙼: {}
+➥ 𝙲𝚁𝙴𝙰𝚃𝙴𝚄𝚁: <a herf=https://t.me/zosman_official>✪ zoѕ-мan ✪</a>
+➥ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: <a href='https://docs.pyrogram.org/'>Pyrogram</a>
+➥ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: Python 𝟹
+➥ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: <a href='https://www.mongodb.com/'>MongoDB</a>
+➥ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: <a href='https://heroku.com'>Heroku</a>
+➥ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v2.0.1 [ BETA ]"""
 
     SOURCE_TXT = """<b>Source:</b>
 IMDb is a Open source project.
-Source: <a href='https://github.com/josprojects/tgmoviebot'>GitHub - Click here 👈</a>
+ꜱᴏᴜʀᴄᴇ ◉› :<a href=https://t.me/Hyman_Official>𝐇𝐘𝐌𝐀𝐍</a>'>GitHub - Click here 👈</a>
 
 <b>DEVS:</b>
-- <a href='https://t.me/josprojects'>Jos Projects</a>
+- <a href='https://t.me/zosman_official'>✪ zoѕ-мan ✪</a>
 
 <b>SUPPORT GROUP</b>
-- <a href='https://t.me/+y53tWFUw6Q43NzE9'>Jos Movie Club</a>"""
+- <a href='https://t.me/cinemalakay'>Cinemalakay Group</a>"""
 
     MANUALFILTER_TXT = """Help: <b>Filters</b>
 
